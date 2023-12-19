@@ -1,0 +1,1 @@
+Just place the contents of this directory in where GIMP looks of scripts. The plug-in directory is for non scheme related stuff like python files. For windows users, most likely it will be C:\users\[username]\AppData\Roaming\GIMP\[version]\scripts
