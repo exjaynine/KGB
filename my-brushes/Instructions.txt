@@ -1,0 +1,2 @@
+Just put these either in your brushes directory
+or just put anywhere and point GIMP to the proper directory.
